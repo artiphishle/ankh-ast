@@ -1,0 +1,27 @@
+{
+  "name": "ankh-ast",
+  "version": "1.0.0",
+  "description": "Ankhorage AST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artiphishle/ankh-ast.git"
+  },
+  "keywords": [
+    "ankhorage",
+    "ankh",
+    "AST"
+  ],
+  "author": "artiphishle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artiphishle/ankh-ast/issues"
+  },
+  "homepage": "https://github.com/artiphishle/ankh-ast#readme",
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
+}
